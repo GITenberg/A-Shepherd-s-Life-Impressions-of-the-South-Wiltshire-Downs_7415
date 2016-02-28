@@ -1,0 +1,38 @@
+_repo: A-Shepherd-s-Life-Impressions-of-the-South-Wiltshire-Downs_7415
+creator:
+  author:
+    agent_name: Hudson, W. H. (William Henry)
+    aliases:
+    - Harford, Henry
+    - Hudson, William Henry
+    birthdate: 1841
+    deathdate: 1922
+    gutenberg_agent_id: '484'
+    url: http://www.gutenberg.org/2009/agents/484
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Hudson
+description: W. H. Hudson's frequent rambles around the English countryside resulted
+  in several captivating travel narratives and helped inspire the back-to-nature movement
+  of the 1920s and 1930s. A Shepherd's Life is a collection of Hudson's impressions
+  of the land and people of the South Wiltshire Downs including the shepherds who
+  roam the region with their flocks, their relationships with their dogs, and the
+  hardship of everyday life.
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7415'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wiltshire (England) -- Social life and customs'
+- !lcsh 'Hudson, W. H. (William Henry), 1841-1922 -- Homes and haunts -- England --
+  Wiltshire'
+- !lcsh 'Country life -- England -- Wiltshire'
+- !lcsh 'Shepherds -- England -- Wiltshire'
+- !lcsh 'Wiltshire (England) -- Description and travel'
+- !lcsh 'Natural history -- England -- Wiltshire'
+- !lcc 'DA'
+- !lcc 'PR'
+title: 'A Shepherd''s Life: Impressions of the South Wiltshire Downs'
+url: http://www.gutenberg.org/ebooks/7415
