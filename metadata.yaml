@@ -1,4 +1,8 @@
 _repo: A-Shepherd-s-Life-Impressions-of-the-South-Wiltshire-Downs_7415
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hudson, W. H. (William Henry)
@@ -16,6 +20,8 @@ description: W. H. Hudson's frequent rambles around the English countryside resu
   of the land and people of the South Wiltshire Downs including the shepherds who
   roam the region with their flocks, their relationships with their dogs, and the
   hardship of everyday life.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7415#A-Shepherd-s-Life-Impressions-of-the-South-Wiltshire-Downs
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
